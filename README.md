@@ -2,7 +2,7 @@
 I am Front-End Developer SangHyun Kim.
 
 ### About Me.
-Enjoy new things and experience them.
+Loves to Learn and Experience
 
 ### Blog(In Korean)
 <a width="" href="https://velog.io/@headring">
